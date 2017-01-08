@@ -1,2 +1,2 @@
-# fantasyRecast
-Recast your fantasies.
+# recast
+Recast your favorite movies.
