@@ -1,4 +1,5 @@
 #!/usr/bin/ruby -w
+
 require 'uri'
 require 'net/http'
 require 'OpenSSL'
